@@ -1,2 +1,5 @@
 # mochaTest
-Test Mocha
+
+Installazione di Mocha
+
+npm install -g mocha
